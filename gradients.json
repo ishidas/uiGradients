@@ -859,5 +859,9 @@
     {
         "name": "Html",
         "colors": ["#E44D26", "#F16529"]
+    },
+    {
+        "name": "Cherry Whisky",
+        "colors": ["#693260", "#ffffff"]
     }
 ]
